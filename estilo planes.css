@@ -1,0 +1,17 @@
+@font-face {
+    font-family: Ginebra;
+    src: url(ginebra_font.ttf);
+}
+@font-face {
+    font-family: Indie;
+    src: url(IndieFlower-Regular.ttf);
+}
+#general {
+    border-style: double;
+    border-color: rgb(62,180,137);
+    border-width: 4px;
+    margin: auto;
+    background-color: none;
+    width: 1250px;
+    height: 700px;
+}
