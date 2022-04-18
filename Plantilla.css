@@ -25,7 +25,7 @@ li {
 }
 .links {
     margin-top: none;
-    font-size: 24px;
+    font-size: 10px;
     color: rebeccapurple;
     font-style: italic;
     font-family: "Indie";}
@@ -71,7 +71,7 @@ p {
 }
 #cuadrote {
     width: 900px;
-    height: 400px; 
+    height: auto; 
     background-color: none;
     margin-left: 175px;
     border-style: double;
@@ -79,6 +79,16 @@ p {
     border-width: 4px;
     margin-top: 40px;}
 #volvernaveg {
+    float: left;
+    width: 200px;
+    height: 27px;
+    border-style: double;
+    border-color: rgb(62,180,137);
+    border-width: 4px;
+    margin-top: 40px;
+    margin-left: 30px;
+}
+#notasvolver {
     float: left;
     width: 200px;
     height: 27px;
@@ -98,3 +108,4 @@ p {
     margin-top: 40px;
     margin-left: 30px;
 }
+
