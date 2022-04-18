@@ -1,0 +1,96 @@
+@font-face {
+    font-family: Ginebra;
+    src: url(ginebra_font.ttf);
+}
+@font-face {
+    font-family: Indie;
+    src: url(IndieFlower-Regular.ttf);
+}
+body {
+    background-color: rgb(247,165,121);
+}
+/*acá podría ir rgb(149,103,224)*/
+a {
+    text-decoration: none;
+}
+#font1 {
+    font-family: "ginebra";
+}
+li {
+    text-decoration: none;
+}
+.links {
+    margin-top: none;
+    font-size: 24px;
+    color: rebeccapurple;
+    font-style: italic;
+    font-family: "Indie";}
+
+h1 {
+    color: rebeccapurple;
+    font-style: italic;
+    font-family: "Ginebra";
+}
+h2 {
+    color: rebeccapurple;
+    font-style: italic;
+    font-family: "Ginebra";
+}
+p {
+    font-style: italic;
+    font-family: "Indie";
+}
+#general {
+    border-style: double;
+    border-color: rgb(62,180,137);
+    border-width: 4px;
+    margin: auto;
+    background-color: none;
+    width: 1250px;
+    height: 900px;
+}
+#titulo {
+    margin-top: 10px;
+    width: 1250px;
+    height: 50px;
+    background-color: none;
+}
+#comienzo {
+    width: 200px;
+    height: 27px;
+    border-style: double;
+    border-color: rgb(62,180,137);
+    border-width: 4px;
+    margin-top: 40px;
+    margin-left: 30px;
+    float: left;
+}
+#cuadrote {
+    width: 900px;
+    height: auto; 
+    background-color: none;
+    margin-left: 175px;
+    border-style: double;
+    border-color: rgb(62,180,137);
+    border-width: 4px;
+    margin-top: 40px;}
+#volvernaveg {
+    float: left;
+    width: 200px;
+    height: 27px;
+    border-style: double;
+    border-color: rgb(62,180,137);
+    border-width: 4px;
+    margin-top: 40px;
+    margin-left: 30px;
+}
+#recuerdosvolver {
+    float: left;
+    width: 200px;
+    height: 27px;
+    border-style: double;
+    border-color: rgb(62,180,137);
+    border-width: 4px;
+    margin-top: 40px;
+    margin-left: 30px;
+}
