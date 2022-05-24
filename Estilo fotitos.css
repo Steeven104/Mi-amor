@@ -67,7 +67,7 @@ p {
     margin: auto;
     background-color: none;
     width: 1250px;
-    height: 3590px;
+    height: 6200px;
 }
 #titulo {
     margin-top: 10px;
@@ -86,7 +86,19 @@ p {
 }
 .estilofotos {
     width: 450px;
-    height: 500px;
+    height: 600px;
+    margin-top: 10px;
+    margin-left: 75px
+}
+.video {
+    width: 450px;
+    height: 450px;
+    margin-top: 10px;
+    margin-left: 75px
+}
+.video2 {
+    width: 450px;
+    height: 600px;
     margin-top: 10px;
     margin-left: 75px
 }
